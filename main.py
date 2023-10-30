@@ -13,7 +13,6 @@ print(f"Qual é a menor nota em literatura? \n{df[['nota literatura']].min()}\n\
 print(f"Qual é a soma de todas as notas em redacao? \n{df[['nota redacao']].sum()}\n\n")
 print(f"Qual é a nota em matemática do aluno de index 502?")
 
-
 """
 print(f"Quantos grupos étnicos existem no dataframe?")
 print(f"Dentro da coluna etnia, qual é o grupo que possui a maior quantidade de pessoas?Qual é o index da aluna que tirou a menor nota em literatura?")
